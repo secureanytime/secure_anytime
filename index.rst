@@ -1,4 +1,4 @@
-Download Malwarebytes SecureAnywhere in your Windows PC
+Download Malwarebytes Gratis in your Windows PC
 ===================================================
 
 You paid for **Malwarebytes**. Now you just want it running on your computer. This helpful guide walks you through the download, install and activation steps, in plain language, using the current Malwarebytes account system. 
