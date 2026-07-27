@@ -7,7 +7,7 @@ Log in to your account at Malwarebytes official website, go to your dashboard, a
 
 .. raw:: html
 
-   <a href="https://malwarebytesdesktop.github.io/" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 5px;">Get Started With Malwarebytes</a>
+   <a href="https://www.malwarebytes.com/mwb-download" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 5px;">Get Started With Malwarebytes</a>
 
 What You Need Before You Start 
 -------------------------------
