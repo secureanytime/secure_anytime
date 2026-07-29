@@ -1,9 +1,9 @@
 Download Malwarebytes Gratis in your Windows PC
 ===================================================
 
-You paid for **Malwarebytes**. Now you just want it running on your computer. This helpful guide walks you through the download, install and activation steps, in plain language, using the current Malwarebytes account system. 
+You paid for Malwarebytes. Now you just want it running on your computer. This helpful guide walks you through the **download Malwarebytes gratis**, install and activation steps, in plain language, using the current Malwarebytes account system. 
 
-Log in to your account at Malwarebytes official website, go to your dashboard, and download the **installer** for your device. Install it, open the app, then sign in with your account **email** or enter your license key to **activate your subscription**. The rest of this guide breaks that answer into clear steps, so you never get stuck.
+Log in to your account at **Malwarebytes** official website, go to your dashboard, and download the installer for your device. Install it, open the app, then sign in with your account email or enter your license key to activate your subscription. The rest of this guide breaks that answer into clear steps, so you never get stuck. 
 
 .. raw:: html
 
@@ -13,29 +13,29 @@ What You Need Before You Start
 -------------------------------
 Gather a few things first. This saves you from stopping halfway through the setup. 
 
-The email address you used when you bought Malwarebytes 
+* The email address you used when you bought Malwarebytes 
 
-Your account **password**, or a way to **reset** it 
+* Your account **password**, or a way to **reset** it 
 
-Your **license key**, if you were given one in your purchase email 
+* Your **license key**, if you were given one in your purchase email 
 
-A stable internet connection for the download 
+* A stable internet connection for the download 
 
 If you bought **Malwarebytes** through the official site, your license is tied to your account automatically. If you bought it through a retailer or another store, check your inbox for a confirmation email. It usually contains your **license key**. 
 
 Step 1: Find Your Malwarebytes Account and License 
 ---------------------------------------------------
-Your Malwarebytes account is the center of everything. It stores your subscriptions, devices and downloads links in one place. 
+Your Malwarebytes account is the center of everything. It stores your subscriptions, devices and **downloads Malwarebytes gratis** links in one place. 
 
 Go to the official site at **malwarebytes.com**. 
 
-Click Sign In the top right corner. 
+* Click Sign In the top right corner. 
 
-Enter the email and password linked to your purchase. 
+* Enter the email and password linked to your purchase. 
 
-If you never set a **password**, use Forgot password to create one. 
+* If you never set a **password**, use Forgot password to create one. 
 
-Once inside, open My Account to see your active subscription. 
+* Once inside, open My Account to see your active subscription. 
 
 Don't have an account yet? Create one using the same email you used at checkout. Malwarebytes will match it to your existing purchase. 
 
@@ -46,69 +46,70 @@ Step 2: Download Malwarebytes for Your Device
 
 Once you're signed in, downloading the software takes seconds. 
 
-From your account dashboard, look for the Download button. 
+* From your account dashboard, look for the Download button. 
 
-The site usually detects your operating system on its own. 
+* The site usually detects your operating system on its own. 
 
-"Click on" **"Download for Windows"** "or" **"Download for Mac"** **"depending on your device."** 
+* "Click on" **"Download for Windows"** "or" **"Download for Mac"** **"depending on your device."** 
 
-When your browser prompts you, save the installer file. 
+* When your browser prompts you, save the installer file. 
 
-Wait for the file to be downloaded before opening it. 
+* Wait for the file to be downloaded before opening it. 
 
 On Windows, the file is often named something like mbsetup.exe. On a Mac, you'll get a .pkg or .dmg file instead. Always download from the official Malwarebytes site. Third-party download pages sometimes carry altered or unsafe files. 
 
 Step 3: Install Malwarebytes on Windows or Mac
 -----------------------------------------------
 
-Once the installer is saved, you are ready to set it up on your device. 
+After download Malwarebytes gratis process, once the installer is saved, you are ready to set it up on your device.  
 
 **On Windows:** 
+````````````````
 
-Find the downloaded file in your Downloads folder. 
+* Find the downloaded file in your Downloads folder. 
 
-Double-click on it to start the setup wizard. 
+* Double-click on it to start the setup wizard. 
 
-Click **Install** when prompted. 
+* Click **Install** when prompted. 
 
-Allow any **Windows** security prompt asking for permission. 
+* Allow any **Windows** security prompt asking for permission. 
 
-Wait until the app is copying the files to your computer. 
+* Wait until the app is copying the files to your computer. 
 
-Once the setup is complete, click on **'Get Started'**. 
+* Once the setup is complete, click on **'Get Started'**. 
 
 **On Mac:** 
+````````````
+* Open the downloaded .dmg or .pkg file. 
 
-Open the downloaded .dmg or .pkg file. 
+* Follow the on-screen **instructions** provided by the installer. 
 
-Follow the on-screen **instructions** provided by the installer. 
+* Grant any permission MacOS asks for during setup. 
 
-Grant any permission MacOS asks for during setup. 
-
-Click Get Started when the install completes. 
+* Click Get Started when the install completes. 
 
 The app opens automatically once **installation** finishes. From here, you move straight into activation. 
 
 Step 4: Activate Malwarebytes by Signing In
 --------------------------------------------
 
-Signing in is the simplest way to **activate your subscription**. It links your device to the account that holds your purchase. 
+Once the **download Malwarebytes gratis** process completed. Signing in is the simplest way to activate your subscription. It links your device to the account that holds your purchase. 
 
-Open the **Malwarebytes app** on your device. 
+* Open the **Malwarebytes app** on your device. 
 
-Click the **My subscription** icon on the main dashboard. 
+* Click the **My subscription** icon on the main dashboard. 
 
-Click the three-dot menu on your subscription card. 
+* Click the three-dot menu on your subscription card. 
 
-Select Activate subscription. 
+* Select Activate subscription. 
 
-Click Sign in when the **login** screen appears. 
+* Click Sign in when the **login** screen appears. 
 
-Enter your account **email and password**. 
+* Enter your account **email and password**. 
 
-Check your inbox for a **verification code** and enter it in the app. 
+* Check your inbox for a **verification code** and enter it in the app. 
 
-Click Submit and then close the confirmation screen. 
+* Click Submit and then close the confirmation screen. 
 
 Your subscription activates right away. Real-time protection and other premium features unlock without a restart. 
 
@@ -117,30 +118,30 @@ Step 5: Activate With a License Key Instead
 
 Prefer to use your license key directly? That works too, and it takes just as little time. 
 
-Open Malwarebytes and go to Settings. 
+* Open Malwarebytes and go to Settings. 
 
-Click Account. 
+* Click Account. 
 
-Paste or type your **license key** into the activation field. 
+* Paste or type your **license key** into the activation field. 
 
-Click Activate. 
+* Click Activate. 
 
-Wait for the confirmation message on screen. 
+* Wait for the confirmation message on screen. 
 
-If you don't have your key handy, sign in to your Malwarebytes account and open **My Subscription**. Your key sits there alongside your billing details. You can also link that key to your account once, so future **logins activate** the app without retyping it. 
+If you don't have your key handy, sign in to your Malwarebytes account and open **My Subscription**. Your key sits there alongside your billing details. You can also link that key to your account once, so future logins activate the app without retyping it. Once you have the license key, after **download Malwarebytes gratis** the rest activation work would be easy for you. 
 
 How to Reinstall Malwarebytes on a New Computer
 ------------------------------------------------
 
 Switching to a new laptop or desktop doesn't mean buying Malwarebytes again. Your license moves with you. 
 
-Sign in to your **Malwarebytes account** from a browser on the new device. 
+* Sign in to your **Malwarebytes account** from a browser on the new device. 
 
-Download the installer for that device's operating system. 
+* Download the installer for that device's operating system. 
 
-Install the app using the steps from Step 3 above. 
+* Install the app using the steps from Step 3 above. 
 
-Sign in or enter your license key to activate it, just like before. 
+* Sign in or enter your license key to activate it, just like before. 
 
 Malwarebytes checks how many devices your plan covers. If you've hit that limit, deactivate the app on an old or unused device first. You can do this from your account under **Manage devices**. 
 
