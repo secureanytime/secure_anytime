@@ -150,41 +150,19 @@ Common Activation Problems and How to Fix Them
 
 Most **activation issues** come down to a handful of causes. Here's how to sort out the usual ones. 
 
-Problem 
-
-Likely Cause 
-
-Fix 
-
-App still shows **"Free"** 
-
-Activation never finished 
-
-Repeat Step 4 or Step 5 above 
-
-License key rejected 
-
-Typo or extra space in the key 
-
-Copy and paste the key instead of typing it 
-
-Account not found 
-
-Wrong email used at **signup** 
-
-Try the email from your purchase receipt 
-
-Verification code missing 
-
-Email delayed or in spam folder 
-
-Check spam, then request a new code 
-
-Features still locked 
-
-App needs an update 
-
-Open Settings, then check for updates 
++---------------------------+---------------------------------+----------------------------------------------+
+|       **Problem**         |      **Likely Cause**           |                 **Fix**                      |
++===========================+=================================+==============================================+
+| App still shows "Free"    | Activation never finished       |  Repeat Step 4 or Step 5 above               |
++---------------------------+---------------------------------+----------------------------------------------+
+| License key rejected      | Typo or extra space in the key  |  Copy and paste the key instead of typing it |
++---------------------------+---------------------------------+----------------------------------------------+
+| Account not found         | Wrong email used at signup      |  Try the email from your purchase receipt    |
++---------------------------+---------------------------------+----------------------------------------------+
+| Verification code missing | Email delayed or in spam folder |  Check spam, then request a new code         |
++---------------------------+---------------------------------+----------------------------------------------+
+| Features still locked     | App needs an update             |  Open Settings, then check for updates       |
++---------------------------+---------------------------------+----------------------------------------------+
 
 If none of these fix it, sign out of the app completely and sign back in. This often clears a stuck activation session. For anything unresolved, use the official support contact form on **malwarebytes official** rather than a number found through a general web search. Scam support lines often impersonate real software brands. 
 
@@ -193,13 +171,13 @@ How to Confirm Malwarebytes Is Fully Active
 
 After activating your copy, take a moment to make sure everything is working properly. 
 
-Open the app and go to Settings. 
+* Open the app and go to Settings. 
 
-Click on **'Account'** to view your subscription status. 
+* Click on **'Account'** to view your subscription status. 
 
-Check the name of your plan and the date of renewal. 
+* Check the name of your plan and the date of renewal. 
 
-Confirm the label reads your paid plan, not **"Free" or "Trial."** 
+* Confirm the label reads your paid plan, not **"Free" or "Trial."** 
 
 You can also run a quick scan to test that real-time protection responds. Open the dashboard and click Scan. A finished scan with no errors is a good sign your setup is working. 
 
@@ -208,22 +186,22 @@ Tips to Keep Your Protection Running
 
 A few small habits keep Malwarebytes working the way it should, without extra effort on your part. 
 
-Let the app update automatically instead of turning that setting off. 
+* Let the app update automatically instead of turning that setting off. 
 
-Be sure to **renew your subscription** before it expires to avoid any security breaches. 
+* Be sure to **renew your subscription** before it expires to avoid any security breaches. 
 
-Keep your account email updated so that renewal and verification emails can reach you. 
+* Keep your account email updated so that renewal and verification emails can reach you. 
 
-Not only quick scan, but also scan the entire system from time to time. 
+* Not only quick scan, but also scan the entire system from time to time. 
 
-Keep your license key in a safe place, such as in a password manager. 
+* Keep your license key in a safe place, such as in a password manager. 
 
 These steps take little time but save you from headaches later, especially if you switch devices down the road. 
 
 Final Thoughts
 ```````````````
 
-**Downloading and activating Malwarebytes** after purchase involves three simple moves: sign in, download, activate. Most people finish the whole process in less than five minutes. If you ever switch computers, the same license follows you, so you're never starting from scratch. Keep your account details somewhere safe, and your protection stays just a login away. 
+**Downloading Malwarebytes Gratis** after purchase involves three simple moves: sign in, download, activate. Most people finish the whole process in less than five minutes. If you ever switch computers, the same license follows you, so you're never starting from scratch. Keep your account details somewhere safe, and your protection stays just a login away. 
 
 Frequently Asked Questions
 ```````````````````````````
