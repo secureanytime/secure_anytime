@@ -6,12 +6,16 @@ extensions = []
 
 extensions = [ 'sphinx.ext.autodoc',
                'sphinx.ext.napoleon',
+               'sphinx_sitemap',
               ]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'alabaster' # Screenshot wala classic white theme
+
+html_baseurl = 'https://communities-anytime-secure-anytime.readthedocs-hosted.com/en/latest/'
+sitemap_url_scheme = "{link}"
 
 # conf.py
 
