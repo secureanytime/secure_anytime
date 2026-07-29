@@ -15,8 +15,8 @@ html_theme = 'alabaster' # Screenshot wala classic white theme
 
 # conf.py
 
-html_title = "Download Kaspersky Total Security in your Windows PC"
-html_short_title = "Download Kaspersky Total Security"
+html_title = "Download Malwarebytes Gratis in your Windows PC"
+
 html_static_path = ['_static']
 html_extra_path = ['_static/google5ffeff63dcb91d99.html'] 
 
